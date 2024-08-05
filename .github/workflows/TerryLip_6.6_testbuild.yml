@@ -1,5 +1,5 @@
 #CI项目名
-name: robimarko_6.1_testbuild
+name: TerryLip_6.6_testbuild
 
 on:
   #自动编译：每天早上4点
@@ -29,6 +29,6 @@ jobs:
       #默认地址
       OWRT_IP: 192.168.31.1
       #默认源码
-      OWRT_URL: https://github.com/robimarko/openwrt
+      OWRT_URL: https://github.com/TerryLip/AX6NSS
       #REPO_BRANCH name
-      REPO_BRANCH: ssdk-remove-malibu
+      REPO_BRANCH: qualcommax-6.x-nss-wifi
