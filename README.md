@@ -1,11 +1,26 @@
-涵盖：ipq807X的NSS固件测试AX6,AX3600,AX9000
+RedMi AX6 NSS Clean Firmware
 
-ax6 精簡固件 
+Based on the OpenWRT source code, it provides clean firmware with no third-party software or services.
 
-使用https://github.com/qosmio/openwrt-ipq.git
-源码编译
+Supporting devices
+
+RedMi AX6 NSS
+
+Source Code
+
+https://github.com/qosmio/openwrt-ipq.git
 
 
-本项目仅编译测试，不作为主固件使用
 
-插件源码默认：kenzok8大神的
+
+RedMi AX6 NSS 纯净固件
+
+基于 OpenWRT 源码，提供纯净、无任何第三方软件或服务的固件。
+
+支持设备
+
+RedMi AX6 NSS
+
+源码
+
+https://github.com/qosmio/openwrt-ipq.git 
